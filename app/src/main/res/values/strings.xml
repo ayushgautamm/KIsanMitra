@@ -1,0 +1,35 @@
+
+<resources>
+<string name="app_name">KisanMitra</string>
+
+<string name="crop_suggestions">Crop Suggestions</string>
+<string name="tap_to_see">Tap to see predicted yield and payout</string>
+<string name="next_enter_stock">Next → Enter My Stock</string>
+<string name="farmer_input">Farmer Input</string>
+<string name="plan_season_inputs">Plan your season inputs</string>
+<string name="available_land">Available Land</string>
+<string name="seeds">Seeds</string>
+<string name="fertilizer">Fertilizer</string>
+<string name="pesticide">Pesticide</string>
+<string name="irrigation">Irrigation</string>
+<string name="available_budget">Available Budget</string>
+<string name="market_projection">Market Projection</string>
+<string name="live_market_outlook">Live Market Outlook</string>
+<string name="publish_to_sellers">Publish to Sellers</string>
+<string name="estimated_price">Estimated farm-gate price</string>
+<string name="predicted_price_title">%1$s — Predicted Price</string>
+<string name="back">Back</string>
+<string name="view_market_insights">View Market Insights</string>
+<string name="enter_valid_number">Enter a valid number</string>
+<string name="add_crop">＋ Add Crop</string>
+<string name="summary">Summary</string>
+<string name="total_output">Total Output:</string>
+<string name="market_status">Market Status:</string>
+<string name="no_data">No Data</string>
+<string name="undersupply">Undersupply</string>
+<string name="balanced">Balanced</string>
+<string name="oversupply">Oversupply</string>
+<string name="hint_kg_acre">kg/acre</string>
+<string name="hint_acres">acres</string>
+<string name="lang_toggle">हिंदी</string>
+</resources>
